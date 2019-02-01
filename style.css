@@ -1,0 +1,21 @@
+
+ body {
+   background-color: rgb(59, 221, 233);
+}
+
+section {
+  background-color: rgb(44, 240, 76);
+}
+
+footer {
+background-color: rgb(59, 221, 233);
+  height: auto;
+  
+}
+.card-white {
+  background: white;
+  padding: 15px;
+  box-shadow:5px 5px 5px 5px #000000;
+  border-radius: 25px;
+  margin: 20px 50px;
+}
